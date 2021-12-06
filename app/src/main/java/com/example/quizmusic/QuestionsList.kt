@@ -113,6 +113,41 @@ object QuestionsList {
         )
         questionsList.add(que15)
 
+        val que16 = Question(
+            16,"What is the name of music band?",
+            R.drawable.daftpunk,
+            "Daft Punk"
+        )
+        questionsList.add(que16)
+
+        val que17 = Question(
+            17,"What is the name of music band?",
+            R.drawable.metallica,
+            "Metallica"
+        )
+        questionsList.add(que17)
+
+        val que18 = Question(
+            18,"What is the name of music band?",
+            R.drawable.milkychance,
+            "Milky Chance"
+        )
+        questionsList.add(que18)
+
+        val que19 = Question(
+            19,"What is the name of music band?",
+            R.drawable.arcticmonkeys,
+            "Arctic Monkeys"
+        )
+        questionsList.add(que19)
+
+        val que20 = Question(
+            20,"What is the name of music band?",
+            R.drawable.sunriseavenue,
+            "Sunrise Avenue"
+        )
+        questionsList.add(que20)
+
 
         return questionsList
     }
